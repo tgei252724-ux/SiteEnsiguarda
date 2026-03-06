@@ -1,0 +1,41 @@
+
+img{
+   width: 100%;
+}
+li{
+   float: left;
+   list-style-type: none;
+   padding-left: 10px;
+   padding-right: 10px;
+}
+.botao_incriçao{
+   background-color: #00839c;
+   padding: 10px;
+   border-radius: 50px;
+   color: white;
+   text-align: center;
+   width: 125px;
+}
+.botao_incriçao2{
+   background-color: #1abea3;;
+   padding: 10px;
+   border-radius: 50px;
+   color: white;
+   text-align: center;
+   width: 135px;
+}
+.botao_incriçao3{
+   background-color: #709247;
+   padding: 10px;
+   border-radius: 50px;
+   color: white;
+   text-align: center;
+   width: 250px;
+}
+.alinha_centro{
+   align-items: center;
+   text-align: center;
+   display: flex;
+   justify-content: center;
+}
+
